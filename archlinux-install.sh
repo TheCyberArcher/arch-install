@@ -28,7 +28,7 @@ yay -S thunar gvfs tumbler ffmpegthumbnailer lxappearance
 
 ########### Applications ###########
 
-yay -S alacritty librewolf-bin torbrowser-launcher thunderbird protonmail-bridge-bin solaar keepassxc qbittorrent btop visual-studio-code-bin corectrl vlc discord signal-desktop neofetch eog redshift
+yay -S alacritty librewolf-bin flameshot torbrowser-launcher thunderbird protonmail-bridge-bin solaar keepassxc qbittorrent btop visual-studio-code-bin corectrl vlc discord signal-desktop neofetch eog redshift
 
 ########### Gaming ###########
 
@@ -38,7 +38,7 @@ sudo pacman -S --needed wine-staging giflib lib32-giflib libpng lib32-libpng lib
 
 ########### Virtualisation ###########
 
-yay -S virtualbox virtualbox-host-modules-arch
+yay -S virtualbox virtualbox-host-modules-arch linux-zen-headers
 
 ########### Flatpak apps ###########
 
